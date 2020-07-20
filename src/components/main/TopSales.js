@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { fetchTopSalesRequest, fetchTopSalesClear } from '../../actions/topSalesActions';
-import Card from '../catalog/Product/Card';
+import Card from '../catalog/product/Card';
 
 // TopSales block
 
