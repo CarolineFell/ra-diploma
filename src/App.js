@@ -8,7 +8,7 @@ import CatalogPage from './components/catalog/CatalogPage';
 import AboutPage from './components/about/AboutPage';
 import ContactsPage from './components/contacts/ContactsPage';
 import Page404 from './components/error404/Page404';
-import ProductPage from './components/catalog/Product/ProductPage';
+import ProductPage from './components/catalog/product/ProductPage';
 import CartPage from './components/cart/CartPage';
 import './App.css';
 require.context('./img');
