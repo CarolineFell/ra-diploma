@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=cyrillic-ext');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&subset=cyrillic-ext');
 
+:root {
+
+}
+
 body {
   font-family: 'Roboto', sans-serif;
 }
@@ -38,7 +42,7 @@ section {
   height: 32px;
   width: 32px;
   margin: 0 10px;
-  background-image: url(./img/header-controls-sprite.png);
+  background-image: url(../img/header-controls-sprite.png);
   background-repeat: no-repeat;
   cursor: pointer;
 }
@@ -194,7 +198,7 @@ section {
   border-radius: 8px;
   background-color: #FFFFFF;
   background-repeat: no-repeat;
-  background-image: url(./img/footer-sprite.png);
+  background-image: url(../img/footer-sprite.png);
 }
 .footer-pay-systems:not(:first-child) {
   margin-left: 5px;
@@ -228,7 +232,7 @@ section {
   margin: 0 5px;
   border-radius: 50%;
   background-repeat: no-repeat;
-  background-image: url(./img/footer-sprite.png);
+  background-image: url(../img/footer-sprite.png);
 }
 .footer-social-link-twitter {
   background-position: -107px -42px;
@@ -296,7 +300,7 @@ section {
   height: 32px;
   width: 32px;
   margin: 0 10px;
-  background-image: url(./img/header-controls-sprite.png);
+  background-image: url(../img/header-controls-sprite.png);
   background-repeat: no-repeat;
   cursor: pointer;
 }
@@ -483,7 +487,7 @@ section {
   border-radius: 8px;
   background-color: #FFFFFF;
   background-repeat: no-repeat;
-  background-image: url(./img/footer-sprite.png);
+  background-image: url(../img/footer-sprite.png);
 }
 .footer-pay-systems:not(:first-child) {
   margin-left: 5px;
@@ -517,7 +521,7 @@ section {
   margin: 0 5px;
   border-radius: 50%;
   background-repeat: no-repeat;
-  background-image: url(./img/footer-sprite.png);
+  background-image: url(../img/footer-sprite.png);
 }
 .footer-social-link-twitter {
   background-position: -107px -42px;
@@ -559,28 +563,4 @@ h2, .h2 {
 .btn-outline-primary:hover {
   background-color: #727e86;
   border-color: #727e86;
-}
-
-.error-msg {
-  margin-left: auto;
-  margin-right: auto;
-  width: fit-content;
-  border: 1px solid;
-  padding: 10px;
-  text-align: center;
-}
-
-.error-msg > div {
-  cursor: pointer;
-  border: 1px solid #dc3545;
-  padding: 5px;
-}
-
-.order-success {
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 15px;
-  width: fit-content;
-  padding: 10px;
-  border: 5px solid #28a745;
 }

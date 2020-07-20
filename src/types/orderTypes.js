@@ -1,0 +1,4 @@
+export const ORDER_INIT = 'ORDER_INIT';
+export const ORDER_REQUEST = 'ORDER_REQUEST';
+export const ORDER_SUCCESS = 'ORDER_SUCCESS';
+export const ORDER_FAILURE = 'ORDER_FAILURE';
