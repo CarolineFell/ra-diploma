@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ra-diploma/static/css/main.d690e8f8.chunk.css",
+    "main.js": "/ra-diploma/static/js/main.db4769d8.chunk.js",
+    "main.js.map": "/ra-diploma/static/js/main.db4769d8.chunk.js.map",
+    "runtime-main.js": "/ra-diploma/static/js/runtime-main.6f2b26d3.js",
+    "runtime-main.js.map": "/ra-diploma/static/js/runtime-main.6f2b26d3.js.map",
+    "static/js/2.4490695f.chunk.js": "/ra-diploma/static/js/2.4490695f.chunk.js",
+    "static/js/2.4490695f.chunk.js.map": "/ra-diploma/static/js/2.4490695f.chunk.js.map",
+    "index.html": "/ra-diploma/index.html",
+    "precache-manifest.5676aeef21b01a8687b3d6c098a5b27c.js": "/ra-diploma/precache-manifest.5676aeef21b01a8687b3d6c098a5b27c.js",
+    "service-worker.js": "/ra-diploma/service-worker.js",
+    "static/css/main.d690e8f8.chunk.css.map": "/ra-diploma/static/css/main.d690e8f8.chunk.css.map",
+    "static/js/2.4490695f.chunk.js.LICENSE.txt": "/ra-diploma/static/js/2.4490695f.chunk.js.LICENSE.txt",
+    "static/media/banner.jpg": "/ra-diploma/static/media/banner.d613d452.jpg",
+    "static/media/footer-sprite.png": "/ra-diploma/static/media/footer-sprite.9c087d43.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f2b26d3.js",
+    "static/js/2.4490695f.chunk.js",
+    "static/css/main.d690e8f8.chunk.css",
+    "static/js/main.db4769d8.chunk.js"
+  ]
+}
